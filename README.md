@@ -38,11 +38,12 @@ Cuerpo: Título "Recomendaciones", una imagen grande del platillo con bordes red
 Botón: Hasta abajo, un ElevatedButton que ocupe todo el ancho, con fondo oscuro que diga "Añadir a carrito".
 
 ### WEB
-<img width="467" height="800" alt="image" src="https://github.com/user-attachments/assets/b14c44d9-6692-4e55-9629-e3c636822d40" />
+<img width="1003" height="702" alt="image" src="https://github.com/user-attachments/assets/3555a04b-0d37-4e91-9183-6708f259bd87" />
 
-<img width="477" height="723" alt="image" src="https://github.com/user-attachments/assets/a4e69742-d30d-4112-adfd-5d158187eaaf" />
+<img width="1113" height="822" alt="image" src="https://github.com/user-attachments/assets/e3e64919-7a8c-4658-8e5c-896e56469462" />
 
-<img width="480" height="723" alt="image" src="https://github.com/user-attachments/assets/23460052-b6fc-455b-adf3-df77e3cca38b" />
+<img width="1117" height="771" alt="image" src="https://github.com/user-attachments/assets/12d14519-e14f-4142-a525-2db0ff0e9938" />
+
 
 ### MOVIL
 
